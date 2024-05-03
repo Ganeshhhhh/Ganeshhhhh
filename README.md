@@ -1,6 +1,8 @@
+
 # 💫 About Me:
 👋 Hey there! I'm Ganesh Sanap, an aspiring full-stack Java developer passionate about crafting engaging web experiences. With a solid foundation in HTML, CSS, and JavaScript, I'm constantly exploring new ways to bring ideas to life in the digital world.<br><br>🚀 My journey into the world of programming began with core Java, where I sharpened my skills in object-oriented programming and application development. Now, I'm diving deeper into the Spring framework and AngularJS, eager to build scalable, robust webapplications that push the boundaries of what's possible on the web.<br><br>💡 I believe in the power of continuous learning and strive to stay updated with the latest technologies and best practices in software development. Whether it's refining my coding skills or exploring innovative solutions to real-world problems, I'm always up for the challenge.<br><br>🌟 Let's connect and collaborate on exciting projects that leverage the power of Java, Spring, and AngularJS to create impactful solutions that make a difference.<br>
 
+<img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ganesh-sanap-9a9859259/) 
